@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { ThumbsUp, MessageCircle, Share2, Send } from "lucide-react";
 import type { PostProps } from "../types/post-types";
 
