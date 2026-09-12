@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "authorName": "Dan Horn",
+    "authorRole": "AI & SEO Consultant",
+    "avatarUrl": "https://placehold.co/150x150?text=DH",
+    "postText": "SEO & AI Tip: A Semantic Map shows exactly where competitors have more coverage than you on a topic or keyword. It can also highlight how much more aligned they are with topical intent.\n\nYou can measure where competitors beat you on a topic, and where the open gaps are, by plotting your pages, their pages, and your target keywords in the same vector space.\n\nYou no longer need to size up the competition by eyeballing their content and counting how many articles they've published.\n\nThis is one piece of a larger Semantic Audit, but it's the piece that turns \"they seem to cover this better\" into a measurable, side-by-side picture.",
+    "mediaUrl": "/img/media/scheme.jpeg",
+    "mediaType": "image",
+    "comments": [
+      {
+        "id": 101,
+        "authorName": "Raji Sing",
+        "avatarUrl": "https://placehold.co/100x100?text=RS",
+        "text": "If a model allowed you to parse the full page's content in one go, would you say chunking is still required?"
+      },
+      {
+        "id": 102,
+        "authorName": "Vijor Amarhaj",
+        "avatarUrl": "https://placehold.co/100x100?text=VA",
+        "text": "What are the embedding models that you use?"
+      },
+      {
+        "id": 103,
+        "authorName": "Peter Roth",
+        "avatarUrl": "https://placehold.co/100x100?text=PR",
+        "text": "Semantic mapping turns vague SEO assumptions into something measurable and actually actionable."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "authorName": "John Urban",
+    "authorRole": "Technical SEO & Tool Builder",
+    "avatarUrl": "https://placehold.co/150x150?text=AU",
+    "postText": "Most SEO tools score pages.\nAI search engines retrieve passages.\n\nThat difference matters.\n\nI built a free \"Semantic Relevance Analyzer\" to help SEOs, content teams, and business owners understand which parts of their content are semantically aligned with a target query, and which sections are weakening the page.\n\nInstead of checking keyword density, the tool breaks content into passages and scores each section against your target keyword or prompt using vector similarity.",
+    "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "mediaType": "video",
+    "comments": [
+      {
+        "id": 201,
+        "authorName": "Ron Miller",
+        "avatarUrl": "https://placehold.co/100x100?text=RM",
+        "text": "Passage-level scoring is a much better way to look at relevance for AI search."
+      },
+      {
+        "id": 202,
+        "authorName": "Nancy Green",
+        "avatarUrl": "https://placehold.co/100x100?text=NG",
+        "text": "Ammad, thank you for sharing!"
+      },
+      {
+        "id": 203,
+        "authorName": "Jennifer Garcia",
+        "avatarUrl": "https://placehold.co/100x100?text=JG",
+        "text": "Scoring individual passages instead of the whole page is a much better way to look at relevance."
+      }
+    ]
+  }
+]
