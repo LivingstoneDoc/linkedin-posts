@@ -1,6 +1,6 @@
 ## LinkedIn Post Component
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://linkedin-posts-topaz.vercel.app/])
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://linkedin-posts-topaz.vercel.app/)
 
 Так как задача предполагала реализацию за 1 час с использованием ИИ, я сфокусировался на быстром прототипировании UI.
 
